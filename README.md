@@ -1,12 +1,13 @@
 
 <img src="https://github.com/SomshekharArabali/image-repo/blob/main/standard%20(1).gif?raw=true" height="200" width="100%">
+<img src="https://github.com/SomshekharArabali/image-repo/blob/main/standard%20(2).gif?raw=true" height="50" width="100%">
 
 
 <h3 align="center">An ardent developer with a profound love for technologies, originating from India, committed to pushing the boundaries of development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somshekhararabali&label=Profile%20views&color=0e75b6&style=flat" alt="somshekhararabali" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GK8hzRar4Z8AAAAj/glitch-crypto.gif">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <a href="https://twitter.com/omie arabali" target="blank"><img src="https://img.shields.io/twitter/follow/omie arabali?logo=twitter&style=for-the-badge" alt="omie arabali" /></a> </p>
 
@@ -21,6 +22,15 @@
 - 📫 How to reach me **omie@gmail.com**
 
 - ⚡ Fun fact **I just woke up so that i can code!**
+
+``` cpp
+if (dream){
+            while (!achieveDream){
+                efforts++;
+            }
+        }
+// - Somshekhar Arabali
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +47,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somshekhararabali&show_icons=true&locale=en&layout=compact" alt="somshekhararabali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somshekhararabali&show_icons=true&locale=en" alt="somshekhararabali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somshekhararabali&" alt="somshekhararabali" /></p>
+
+
+<p align="center">
+<img src="https://github.com/karan0805/karan0805/blob/master/github-user-contribution.svg">
+</p>
