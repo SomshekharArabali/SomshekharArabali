@@ -1,4 +1,6 @@
-<img src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="MasterHead" width="1200" height="150"/>
+
+![Image description](https://imgur.com/QdAL7cG)
+
 
 <h3 align="center">An ardent developer with a profound love for technologies, originating from India, committed to pushing the boundaries of development.</h3>
 
