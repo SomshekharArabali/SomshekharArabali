@@ -1,5 +1,5 @@
 
-![Image description](https://imgur.com/QdAL7cG)
+![Description of the GIF](https://github.com/SomshekharArabali/image-repo/blob/main/standard%20(1).gif?raw=true)
 
 
 <h3 align="center">An ardent developer with a profound love for technologies, originating from India, committed to pushing the boundaries of development.</h3>
