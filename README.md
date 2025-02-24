@@ -20,11 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [https://somshekhararabali.github.io/Portfolio/](https://somshekhararabali.github.io/Portfolio/)
 
-- 💬 Ask me about **C++, HTML, CSS, JS**
+- 💬 Ask me about **Java, AWS, Azure ,C++, HTML, CSS, JS**
 
 - 📫 How to reach me **omie@gmail.com**
-
-- ⚡ Fun fact **I just woke up so that i can code!**
 
 ``` cpp
 if (dream){
@@ -38,10 +36,10 @@ if (dream){
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/omie arabali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omie arabali" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/somshekhararabali](https://www.linkedin.com/in/somshekhar-arabali-167651259/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somshekhararabali" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/somshekhararabali](https://www.linkedin.com/in/somshekhar-arabali-167651259/)" target="blank"><img align="center" src="https://www.linkedin.com/in/somshekhar-arabali-167651259/" alt="somshekhararabali" height="30" width="40" /></a>
 
 <a href="https://instagram.com/e1_1ev_nty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e1_1ev_nty_" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/breadcrumbssomshekhararabali](https://leetcode.com/u/Somshekhar_Arabali/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="breadcrumbssomshekhararabali" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/breadcrumbssomshekhararabali](https://leetcode.com/u/Somshekhar_Arabali/)" target="blank"><img align="center" src="https://leetcode.com/u/Somshekhar_Arabali/" alt="breadcrumbssomshekhararabali" height="30" width="40" /></a>
 <a href="https://discord.gg/OmieArabali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OmieArabali" height="30" width="40" /></a>
 </p>
 
