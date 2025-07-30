@@ -5,24 +5,18 @@
 
 <h3 align="center">An ardent developer with a profound love for technologies, originating from India, committed to pushing the boundaries of development.</h3>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
+
 
 
 
 <p align="left"> <a href="https://twitter.com/omie arabali" target="blank"><img src="https://img.shields.io/twitter/follow/omie arabali?logo=twitter&style=for-the-badge" alt="omie arabali" /></a> </p>
 
-- 🔭 I’m currently working on **React**
-
 - 🌱 I’m Currently Practising **DSA and Web developement**
 
-- 👨‍💻 All of my projects are available at [https://somshekhararabali.github.io/Portfolio/](https://somshekhararabali.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at → [My Portfolio](https://portfolio-1-eta-two.vercel.app) 
+- 💬 Ask me about **Java, Spring Boot, React, AWS, Azure ,C++, HTML, CSS, JS**
 
-- 💬 Ask me about **Java, AWS, Azure ,C++, HTML, CSS, JS**
-
-- 📫 How to reach me **omie@gmail.com**
+- 📫 How to reach me **omie9284@gmail.com**
 
 ``` cpp
 if (dream){
