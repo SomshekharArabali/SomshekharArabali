@@ -9,12 +9,10 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/omie arabali" target="blank"><img src="https://img.shields.io/twitter/follow/omie arabali?logo=twitter&style=for-the-badge" alt="omie arabali" /></a> </p>
-
 - 🌱 I’m Currently Practising **DSA and Web developement**
 
 - 👨‍💻 All of my projects are available at → [My Portfolio](https://portfolio-1-eta-two.vercel.app) 
-- 💬 Ask me about **Java, Spring Boot, React, AWS, Azure ,C++, HTML, CSS, JS**
+- 💬 Ask me about **React,node.js, Express.js, AWS, Azure ,C++, HTML, CSS, JS**
 
 - 📫 How to reach me **omie9284@gmail.com**
 
