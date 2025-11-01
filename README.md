@@ -23,30 +23,15 @@
 </hr>
 
 ---
+## 🎇 About Me
 
-## 🎇About Me
 <div align="center">
 
-### 🎓 Education
-![Education](https://img.shields.io/badge/B.E._Computer_Engineering-9.55_CGPA-success?style=for-the-badge)
-
----
-
-### 💼 Expertise
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-4A90E2?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java_Development-007396?style=for-the-badge)
-
----
-
-### 🚀 Currently Exploring
-![MCP](https://img.shields.io/badge/MCP_Servers-8B5CF6?style=for-the-badge)
-![System Design](https://img.shields.io/badge/Advanced_System_Design-10B981?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Container_Orchestration-326CE5?style=for-the-badge)
-![MERN](https://img.shields.io/badge/Advanced_AI-61DAFB?style=for-the-badge)
-
----
+| | |
+|:---|:---|
+|  **Education** | **B.E. in Computer Engineering** — CGPA: **9.55 / 10** |
+|  **Expertise** | Full-Stack Development • Cloud Computing • DevOps • Java Development |
+|  **Currently Exploring** | MCP Servers • Advanced System Design • Container Orchestration • Advanced AI |
 
 </div>
 
