@@ -89,66 +89,68 @@
 
 ---
 
-##  🎇Featured Projects
+## 🎇 Featured Projects
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-###  **AWS CLF-C02 Exam Prep**
+### **AWS CLF-C02 Exam Prep**
 **Tech Stack:** `React.js` `JavaScript` `CSS`
 
 A responsive quiz application designed to help users ace the AWS Certified Cloud Practitioner exam.
 
 **Features:**
-- 📝 Dynamic question rendering
-- ✅ Real-time answer validation
-- 📊 Score tracking & analytics
-- 📱 Cross-device compatibility
+- 📝 Dynamic question rendering  
+- ✅ Real-time answer validation  
+- 📊 Score tracking & analytics  
+- 📱 Cross-device compatibility  
 
 </td>
 <td width="50%" valign="top">
 
-###  **Starbucks Website**
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Stripe`
+### **VaultFlow Payment Processing System**
+**Tech Stack:** `Spring Boot` `Stripe` `AWS`  
+**Year:** 2025
 
-Full-stack e-commerce platform with complete authentication and payment integration.
+Microservices-based payment processing system designed for secure, scalable financial transactions.
 
 **Features:**
-- 🔐 JWT authentication & authorization
-- 🛒 Dynamic cart & order management
-- 💳 Stripe payment integration
-- 📦 MongoDB persistent storage
+- 💳 Stripe integration for payments, checkout sessions & refunds  
+- 🔐 Secure webhook verification using **HmacSHA256**  
+- ☁️ Deployed on AWS with cloud-native architecture  
+- 🧩 Modular microservices design for scalability  
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-###  **Image Labels Generator**
-**Tech Stack:** `AWS Rekognition` `S3` `Python` `boto3`
+### **Real-Time Complaint Management System**
+**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Supabase`
 
-Automated image labeling system using AWS AI services for object detection and classification.
+A real-time complaint management platform with role-based dashboards and live status tracking.
 
 **Features:**
-- 🤖 AI-powered label detection
-- 📸 S3 image storage integration
-- 📈 Matplotlib visualizations
-- ⚡ Boto3 API integration
+- 🧑‍💼 Role-based admin dashboards  
+- 🔄 Live complaint status updates  
+- 🔍 Advanced filtering, reporting & search  
+- ⚡ Optimized with Vite (~30% faster initial load time)  
 
 </td>
 <td width="50%" valign="top">
 
-###  **Virtual Math Lab**
+### **Virtual Math Lab**
 **Tech Stack:** `Java` `HTML/CSS/JS` `Apache POI`
 
-Interactive math visualizations for NMEICT initiative by Ministry of Education.
+Interactive math visualizations developed for the NMEICT initiative by the Ministry of Education.
 
 **Features:**
-- 📊 Interactive visualizations
-- 📚 Educational content delivery
-- 💾 Excel-based offline deployment
-- 🎓 Collaboration with 11 premier institutes
+- 📊 Interactive visualizations  
+- 📚 Educational content delivery  
+- 💾 Excel-based offline deployment  
+- 🎓 Collaboration with 11 premier institutes  
 
 </td>
 </tr>
@@ -164,6 +166,7 @@ Interactive math visualizations for NMEICT initiative by Ministry of Education.
 |:---|:---:|:---|
 | ☁️ **AWS Certified Cloud Practitioner** | Jul 2025 | Official AWS CLF-C02 Certification |
 | 🔷 **Microsoft Azure Fundamentals** | Feb 2025 | Azure AZ-900 Certification |
+| 🔷 **Microsoft Azure AI Fundamentals** | Jan 2026 | Azure AI-900 Certification |
 | 💻 **COEPTECH Virtual Math Lab** | Mar-Jul 2025 | Programmer - NMEICT Initiative, Ministry of Education |
 | 🎨 **Aroma Brand Solutions** | Nov 2024 - Feb 2025 | Full-Stack Development Internship |
 | 🌐 **Notamedia India Pvt. Ltd.** | Mar-Apr 2023 | Web Designer - WordPress & AI Tools |
